@@ -1,2 +1,2 @@
-this directory contains code on not only sql
+this directory contains python  scripts  on not only sql
 
